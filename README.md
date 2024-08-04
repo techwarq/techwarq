@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **AWS, AI ML, Cloudflare, Docker, Kafka**
 
-- 👯 I’m looking to collaborate on [supermemory.ai](https://supermemory.ai/)
-
 - 🤝 I’m looking for help with Spazio.ai [Comming soon](Comming soon)
 
 - 📝 I regularly write articles on [https://truenerds.substack.com/](https://truenerds.substack.com/)
