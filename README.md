@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techwarq&label=Profile%20views&color=0e75b6&style=flat" alt="techwarq" /> </p>
 
-- 🔭 I’m currently working on A Saas [look-out-ai.vercel.app](https://look-out-ai.vercel.app/)
+- 🔭 I’m currently working on A Saas [lookOut Ai](https://look-out-ai.vercel.app/) and [truenerds](https://truenerds-6yp.vercel.app/)
 
 - 🌱 I’m currently learning **AWS, AI ML, Cloudflare, Docker, Kafka**
 
