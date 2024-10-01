@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sonalinayak0804@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1bMpezB8ku4UrNB_EMs3JRMhVTK3E5gk3nG0BP9gfdxE/edit?usp=sharing](https://docs.google.com/document/d/1bMpezB8ku4UrNB_EMs3JRMhVTK3E5gk3nG0BP9gfdxE/edit?usp=sharing)
+
 
 - ⚡ Fun fact **I Love Batman and want to do build something like him**
 
